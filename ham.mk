@@ -92,16 +92,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    camera.msm8974 \
-    Snap
+    camera.msm8974
 
 # Charger
 PRODUCT_PACKAGES += \
     charger_res_images
-
-# ConfigPanel
-PRODUCT_PACKAGES += \
-    ConfigPanel
 
 # Filesystem
 PRODUCT_PACKAGES += \

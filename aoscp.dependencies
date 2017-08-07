@@ -1,0 +1,14 @@
+[
+  {
+    "repository":  "kernel_cyanogen_msm8974",
+    "target_path": "kernel/cyanogen/msm8974",
+    "remote":      "aoscp",
+    "branch":      "nougat-mr2"
+  },
+  {
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote":      "aoscp",
+    "branch":      "nougat-mr2"
+  }
+]
