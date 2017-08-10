@@ -10,5 +10,11 @@
     "target_path": "device/qcom/common",
     "remote":      "aoscp",
     "branch":      "nougat-mr2"
+  },
+  {
+    "repository":  "proprietary_vendor_zuk",
+    "target_path": "vendor/zuk",
+    "remote":      "aoscp",
+    "branch":      "nougat-mr2"
   }
 ]
